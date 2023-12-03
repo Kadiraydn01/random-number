@@ -129,6 +129,7 @@ function App() {
         >
           Stop
         </button>
+        {/* reset bölümünü kendim ekledim */}
         <button
           className="p-5 border rounded-xl bg-red-500 text-white"
           onClick={resetData}
